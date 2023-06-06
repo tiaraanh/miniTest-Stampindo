@@ -24,6 +24,8 @@
 		94DD5F602A2DF7F6009DD870 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		94DD5F632A2DF7F6009DD870 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		94DD5F652A2DF7F6009DD870 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		94DD5F6D2A2DF96E009DD870 /* ApaBole.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ApaBole.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		94DD5F6F2A2E1983009DD870 /* openWeatherMap.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = openWeatherMap.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,8 @@
 				94DD5F572A2DF7F3009DD870 /* AppDelegate.swift */,
 				94DD5F592A2DF7F3009DD870 /* SceneDelegate.swift */,
 				94DD5F5B2A2DF7F3009DD870 /* ViewController.swift */,
+				94DD5F6F2A2E1983009DD870 /* openWeatherMap.playground */,
+				94DD5F6D2A2DF96E009DD870 /* ApaBole.playground */,
 				94DD5F5D2A2DF7F3009DD870 /* Main.storyboard */,
 				94DD5F602A2DF7F6009DD870 /* Assets.xcassets */,
 				94DD5F622A2DF7F6009DD870 /* LaunchScreen.storyboard */,
