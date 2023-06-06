@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		94887FEB2A2F540C0049C255 /* 1.ApaBole.png in Resources */ = {isa = PBXBuildFile; fileRef = 94887FE92A2F540C0049C255 /* 1.ApaBole.png */; };
+		94887FEC2A2F540C0049C255 /* 2. OpenWeatherMap.png in Resources */ = {isa = PBXBuildFile; fileRef = 94887FEA2A2F540C0049C255 /* 2. OpenWeatherMap.png */; };
 		94DD5F582A2DF7F3009DD870 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94DD5F572A2DF7F3009DD870 /* AppDelegate.swift */; };
 		94DD5F5A2A2DF7F3009DD870 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94DD5F592A2DF7F3009DD870 /* SceneDelegate.swift */; };
 		94DD5F5C2A2DF7F3009DD870 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94DD5F5B2A2DF7F3009DD870 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		94887FE92A2F540C0049C255 /* 1.ApaBole.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.ApaBole.png; sourceTree = "<group>"; };
+		94887FEA2A2F540C0049C255 /* 2. OpenWeatherMap.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2. OpenWeatherMap.png"; sourceTree = "<group>"; };
 		94DD5F542A2DF7F3009DD870 /* miniTest-Stamps.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "miniTest-Stamps.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		94DD5F572A2DF7F3009DD870 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		94DD5F592A2DF7F3009DD870 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +67,8 @@
 				94DD5F5B2A2DF7F3009DD870 /* ViewController.swift */,
 				94DD5F6F2A2E1983009DD870 /* openWeatherMap.playground */,
 				94DD5F6D2A2DF96E009DD870 /* ApaBole.playground */,
+				94887FE92A2F540C0049C255 /* 1.ApaBole.png */,
+				94887FEA2A2F540C0049C255 /* 2. OpenWeatherMap.png */,
 				94DD5F5D2A2DF7F3009DD870 /* Main.storyboard */,
 				94DD5F602A2DF7F6009DD870 /* Assets.xcassets */,
 				94DD5F622A2DF7F6009DD870 /* LaunchScreen.storyboard */,
@@ -129,9 +135,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94887FEC2A2F540C0049C255 /* 2. OpenWeatherMap.png in Resources */,
 				94DD5F642A2DF7F6009DD870 /* LaunchScreen.storyboard in Resources */,
 				94DD5F612A2DF7F6009DD870 /* Assets.xcassets in Resources */,
 				94DD5F5F2A2DF7F3009DD870 /* Main.storyboard in Resources */,
+				94887FEB2A2F540C0049C255 /* 1.ApaBole.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
