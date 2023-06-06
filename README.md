@@ -28,6 +28,7 @@ Install miniTest-Stampindo
 ```
 git clone git@github.com:tiaraanh/miniTest-Stampindo.git
 ```
+insert your own API Key on openWeatherMap
 
 
     
