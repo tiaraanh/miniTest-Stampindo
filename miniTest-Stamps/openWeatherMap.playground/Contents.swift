@@ -2,7 +2,7 @@ import Foundation
 import PlaygroundSupport
 
 // Set up URL and API key
-let apiKey = "2464aedbaeea95fa701eda77a8433d8e"
+let apiKey = "USE YOUR API KEY"
 let city = "Jakarta"
 let url = URL(string: "https://api.openweathermap.org/data/2.5/forecast?q=\(city)&appid=\(apiKey)")!
 

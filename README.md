@@ -16,7 +16,7 @@ This is a mini test 1st phase interview for PT Stampindo. There are 2 test of co
 
 ![App Screenshot](https://res.cloudinary.com/daqnfi8q7/image/upload/v1686051587/Screenshot_2023-06-06_at_18.35.44_pm1zn0.png)
 
-![App Screenshot](https://res.cloudinary.com/daqnfi8q7/image/upload/v1686051482/Screenshot_2023-06-06_at_18.36.07_iir4f8.png)
+![App Screenshot](https://res.cloudinary.com/daqnfi8q7/image/upload/v1686052694/2._OpenWeatherMap_lgrumy.png)
 
 
 ## Installation
