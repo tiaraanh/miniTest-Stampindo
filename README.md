@@ -21,7 +21,7 @@ This is a mini test 1st phase interview for PT Stampindo. There are 2 test of co
 
 ## Installation
 
-Install miniTest-Stampindo with npm
+Install miniTest-Stampindo
 
 
   clone this repo
